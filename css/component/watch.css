@@ -1,0 +1,11 @@
+.watch{
+    padding-top: 200px;
+    padding-bottom: 170px;
+}
+.watch .card-title {
+    color: #000;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1;
+    margin-bottom: 40px;
+}

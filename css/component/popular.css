@@ -1,0 +1,21 @@
+.popularitem{
+    padding-bottom: 170px;
+}
+.popularitem .img__hover{
+    position: relative;
+    border-bottom: 3px solid #ff2020;
+}
+.card__icon{
+    position: absolute;
+    top: 13px;
+    left: 87%;
+    opacity: 0;
+    transition: all .4s ease-out 0s;
+}
+.card__icon i{
+    color: #333333;
+    font-size: 30px;
+}
+.popularitem .card:hover .card__icon{
+    opacity: 1;
+}

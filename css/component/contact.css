@@ -1,0 +1,50 @@
+.map{
+    padding: 130px 0 100px;
+}
+.map-frame{
+    width: 100%;
+}
+.form__group{
+    margin-bottom: 30px;
+}
+.form__control{
+    width: 100%;
+    border: 1px solid #e5e6e9;
+    border-radius: 0px;
+    padding-left: 18px;
+    height: 48px;
+    font-size: 13px;
+    background: transparent;
+}
+.form__group textarea{
+    height: 100% !important;
+}
+.form__control:focus{
+    outline: none;
+    box-shadow: none;
+}
+.form__btn{
+    display: inline-block;
+    background: #ff2020;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 12px 25px;
+    border-radius: 4px;
+}
+.form__btn:hover{
+    background: #ff2020;
+    color: #000;
+}
+.contact .contact__icon{
+    color: #8f9195;
+    font-size: 27px;
+}
+.contact .img__tittle h3{
+    font-size: 16px;
+    color: #2a2a2a;
+    margin-bottom:0;
+}
+.contact .img__tittle p{
+    color: #8a8a8a;
+}

@@ -1,0 +1,125 @@
+.check {
+    padding: 100px 0 0 0;
+}
+
+.check__title h2 {
+    font-size: 15px;
+    background: #f7f7f7;
+    line-height: 40px;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+
+.check__title h2 a {
+    text-decoration: underline !important;
+}
+
+.check__title h2 a:hover {
+    color: #007bff;
+}
+
+.check__title p {
+    margin-top: 15px;
+    padding-left: 30px;
+    margin-bottom: 25px;
+    font-size: 14px;
+}
+
+.check__form {
+    max-width: 710px;
+    margin-left: 15px;
+}
+
+.check__form input {
+    border-radius: 0;
+}
+
+.check__form .remember{
+    margin-left: 15px;
+}
+.row__remeber{
+    margin-left: 0;
+}
+.link__check__form{
+    color: #828bb2;
+    margin-top: 20px;
+    font-size: 13px;
+}
+.link__check__form:hover{
+    color: #828bb2;
+}
+.btn__form2{
+    padding: 2px 40px;
+    border: 1px solid #eee;
+    color: #415094;
+    border-radius: 50px;
+    background-color: transparent;
+    transition: 0.4s;
+}
+.forms2 h3{
+    font-size: 18px;
+    color: #415094;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+.forms2 .check__form .row{
+    margin-left: 0;
+    margin-right: 0;
+}
+.textarea__check{
+    width: 100%;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    padding: 10px 10px;
+}
+.order__box{
+    background: #f7f7f7;
+    padding: 79px 33px;
+}
+.order__box h2{
+    border-bottom: 1px solid #ddd;
+    font-size: 18px;
+    font-weight: 500;
+    color: #415094;
+    padding-bottom: 15px;
+}
+.order__box ul{
+    padding-left: 0;
+}
+.order__box ul li a{
+    display: flex !important;
+    justify-content: space-between;
+    font-size: 14px;
+    color: #828bb2;
+    border-bottom: 1px solid #eee;
+    display: block;
+    line-height: 42px;
+}
+.order__box ul li a .middel{
+    color: #415094;
+    font-weight: 600;
+}
+.radio__btn label{
+    padding: 0 25px 21px 0px;
+    height: 14px;
+    font-weight: 300;
+    color: #415094;
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: .5rem;
+}
+.para__radio{
+    background: #fff;
+    padding: 20px;
+    font-size: 14px;
+}
+.terma-cond{
+    padding-left: 10px;
+    font-size: 12px;
+    color: #415094;
+    display: inline-block;
+}
+.btn3{
+    width: 100%;
+    text-transform: uppercase;
+}

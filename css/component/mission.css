@@ -1,0 +1,30 @@
+.mission{
+    padding-top: 200px;
+    padding-bottom: 170px;
+}
+.mission__cart{
+    position: relative;
+}
+.mission__cart h4{
+    font-size: 30px;
+    font-family: "Josefin Sans",sans-serif;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: #000a2d;
+    display: inline-block;
+    position: relative;
+    padding-left: 68px;
+}
+.mission__cart h4::before{
+    position: absolute;
+    content: "";
+    width: 54px;
+    height: 2px;
+    background: #eb566c;
+    top: 50%;
+    left: 0px;
+}
+.mission__cart p{
+    color: #464d65;
+    font-size: 14px;
+}

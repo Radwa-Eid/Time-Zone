@@ -1,0 +1,34 @@
+.homebtn{
+    padding: 14px 29px;
+    background: #4a4a4b;
+    color: white;
+    border-radius: 0;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    display: inline-block;
+    text-transform: uppercase;
+    transition: color 0.4s linear;
+    border: none;
+    position: relative;
+    z-index: 1;
+}
+.homebtn:hover{
+    color: #fff;
+}
+.homebtn::after{
+    content: "";
+    position: absolute;
+    background-color: #ff2020;
+    transition: transform 0.5s;
+    transition-timing-function: cubic-bezier(0.5, 1.6, 0.4, 0.7);
+    width: 100%;
+    height: 100%;
+    inset: 0;
+    z-index: -1;
+    transform: scaleX(0);
+    transform-origin: 0 0;
+}
+.homebtn:hover::after{
+    transform: scaleX(1);
+} 

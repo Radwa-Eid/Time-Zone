@@ -1,0 +1,85 @@
+.slider{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.product__deyails{
+    margin:60px 0 105px;
+}
+.product__deyails h3{
+    font-size: 40px;
+}
+.product__deyails p{
+    margin-top: 50px;
+    color: #707070;
+}
+.counter{
+    margin-top: 60px;
+}
+.counter p{
+    color: #828bb2 !important;
+}
+.product__count{
+    border: 1px solid #828bb2;
+    margin: 0 35px;
+    display: inline-block;
+}
+.product__contant{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: inline-block;
+}
+.product__num{
+    background-color: #828bb2;
+    border: 1px solid #828bb2;
+    color: #fff;
+}
+.btn{
+    padding: 18px 36px;
+}
+.subscribe{
+    padding: 200px 0;
+    background-color: #191d34;
+}
+.subscribe h2{
+    color: #fff;
+}
+.subscribe p{
+    color: #fff !important;
+}
+.subscribe__input{
+    margin-top: 45px;
+    position: relative;
+    margin: 0 auto;
+    max-width: 558px;
+}
+.subscribe__input .row{
+    margin-right: 0;
+    margin-left: 0;
+}
+.input__subscribe{
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    background-color: transparent;
+    padding: 19px 30px;
+    width: 100%;
+}
+.btn__subscribe{
+    position:absolute;
+    padding: 15px 30px;
+    border-radius: 50px;
+    background-color: #2577fd;
+    border: 2px solid #2577fd;
+    font-size: 15px;
+    color: #fff;
+    transition: 0.5s;
+    font-weight: 600;
+    bottom: 4px;
+    right: 4px;
+}
+.btn__subscribe:hover{
+    background-color: #fff;
+    color: #ff2020;
+}

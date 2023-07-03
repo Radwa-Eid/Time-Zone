@@ -1,0 +1,7 @@
+.popularbtn{
+    background-color: #ff2020;
+    font-family: "Josefin Sans",sans-serif;
+}
+.popularbtn::after{
+    background-color: #4a4a4b;
+}

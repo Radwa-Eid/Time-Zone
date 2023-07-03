@@ -1,0 +1,31 @@
+.shop__popularitem{
+    padding-top: 190px;
+    padding-bottom: 135px;
+}
+.shop__popularitem .nav .nav-item a{
+    padding-bottom: 10px;
+    display: block;
+    color: #1b1b1b;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.shop__popularitem .nav .nav-item .active{
+    background: none;
+    border-bottom: 2px solid #ff5757;
+    z-index: 5;
+    position: relative;
+}
+.shopbtn{
+    background-color: #f2f2f2;
+    border-radius: 30px;
+    border: none;
+    color: #333333 !important;
+    line-height: 31px;
+    padding: 5px 20px;
+    outline: none !important;
+}
+.shopbtn select{
+    background-color: transparent;
+    outline: none;
+    border:none;
+}

@@ -1,0 +1,24 @@
+.method{
+    background: #ea0000;
+    color: #fff;
+}
+
+.method1{
+    padding: 43px 20px 0 45px;
+}
+.method1 i{
+    font-size: 40px;
+    margin-bottom: 25px;
+    display: block;
+}
+.method1 h6{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-bottom: 12px;
+    font-family: "Roboto",sans-serif !important;
+}
+.method1 p{
+    font-size: 16px;
+    color: #d3d1d1 !important;
+}
